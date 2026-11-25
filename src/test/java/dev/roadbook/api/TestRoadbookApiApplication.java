@@ -1,4 +1,4 @@
-package dev.roadbook.roadbook_api;
+package dev.roadbook.api;
 
 import org.springframework.boot.SpringApplication;
 
